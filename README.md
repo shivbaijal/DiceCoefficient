@@ -1,6 +1,6 @@
 # DiceCoefficient
 
-### Calculate the similarity of strings using the [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient).
+#### Calculate the similarity of strings using the [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient).
 
 ## Usage
 
@@ -42,14 +42,14 @@ DiceCoefficient is available using [Swift Package Manager](https://swift.org/pac
 Add the following in your `Package.swift`:
 
 ```Swift
-    import PackageDescription
+import PackageDescription
 
-    let package = Package(
-      name: "CoolestAppEver",
-      dependencies: [
+let package = Package(
+    name: "CoolestAppEver",
+    dependencies: [
         .Package(url: "https://github.com/shivbaijal/DiceCoefficient.git", majorVersion: 0)
-      ]
-    )
+    ]
+)
 ```
 
 ### Manual
