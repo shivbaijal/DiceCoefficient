@@ -26,16 +26,6 @@ DiceCoefficient is available using [CocoaPods](http://cocoapods.org). Add the fo
 pod "DiceCoefficient"
 ```
 
-### Carthage
-
-DiceCoefficient is available using [Carthage](https://github.com/Carthage/Carthage).
-
-Add the following line to your `Cartfile`:
-
-```ogdl
-github "shivbaijal/DiceCoefficient" >= 1.0
-```
-
 ### Swift Package Manager
 
 DiceCoefficient is available using [Swift Package Manager](https://swift.org/package-manager/).
@@ -51,6 +41,10 @@ let package = Package(
     ]
 )
 ```
+
+### Carthage
+
+DiceCoefficient is not yet available using [Carthage](https://github.com/Carthage/Carthage), but it will be soon!
 
 ### Manual
 
